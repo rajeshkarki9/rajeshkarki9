@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Swift, Laravel**
 
 
-- 💬 Ask me about **C++,DSA,HTML,CSS,Javascript**
+- 💬 Ask me about **C#,DSA,HTML,CSS,Javascript**
 - 📫 How to reach me **preamkarki97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
