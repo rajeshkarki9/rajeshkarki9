@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at Heartsun Technology Pvt. Ltd as Software Developer.<br>Completed Diplomma In INfformation Technology<br>I started my career as a Full-Stack Developer in LearnersHub.
+I'm currently working at Heartsun Technology Pvt. Ltd as Software Developer.<br>Completed Diplomma In Information Technology<br>I started my career as a Full-Stack Developer in LearnersHub.
 
 
 ## 🌐 Socials:
