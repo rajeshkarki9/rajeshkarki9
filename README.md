@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working at Heartsun Technology Pvt. Ltd as Software Developer.<br>Completed Diplomma In Information Technology<br>
+👋 Hi, I’m Rajesh  
+💻 Software Developer at  Heartsun Technology Pvt. Ltd  
+🎓 Diploma in Information Technology graduate  
+📚 Pursuing BSc (Hons) Computer Systems Engineering  
+🏫 ISMT College | University of Sunderland (UK)  
+🚀 Passionate about building scalable software & solving real-world problems
 
 
 ## 🌐 Socials:
