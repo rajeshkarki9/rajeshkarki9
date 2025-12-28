@@ -1,4 +1,4 @@
-<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/d8ffaaea-a765-4449-8243-f807d5b616d7" />
+<!-- <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/d8ffaaea-a765-4449-8243-f807d5b616d7" /> -->
 
 <h1 align="center">Hi 👋, I'm Rajesh Karki</h1>
 
