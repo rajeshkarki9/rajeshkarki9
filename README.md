@@ -127,7 +127,15 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/rajeshkarki9/rajeshkarki9/tree/main/.github/workflows"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/rajeshkarki9/rajeshkarki9/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/rajeshkarki9/rajeshkarki9/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" 
+         src="https://raw.githubusercontent.com/rajeshkarki9/rajeshkarki9/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
