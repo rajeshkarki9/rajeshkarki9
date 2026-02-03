@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:rajesh.karki.dev@gmail.com">
+  <a href="mailto:rajeshkarki.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-rajesh.karki.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Nepal%20🇳🇵-success?style=for-the-badge"/>
@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajeshkarki007&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Rajeshkarki007?label=Followers&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=rajeshkarki9&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/rajeshkarki9?label=Followers&style=for-the-badge&color=blue"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
