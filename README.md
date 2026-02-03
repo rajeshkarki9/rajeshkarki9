@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:rajeshkarki.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rajesh.karki.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-rajeshkarki.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Nepal%20🇳🇵-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge"/>
