@@ -25,7 +25,7 @@
 <!-- =================== ABOUT ME =================== -->
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding Animation"/>
+<img align="right" width="380" src="https://camo.githubusercontent.com/591c4110a78dc826c430118b088b2b94233e1c0210423bf88366350c7faedfbb/68747470733a2f2f646576746563686e6f7379732e636f6d2f696e7369676874732f77702d636f6e74656e742f75706c6f6164732f323032332f30372f4d6f62696c652d4170702d446576656c6f706d656e742d546f6f6c732d4749462e676966" alt="Coding Animation"/>
 
 Hi there! I'm **Rajesh Karki**, a passionate **Software Developer** from **Nepal** 🇳🇵
 
