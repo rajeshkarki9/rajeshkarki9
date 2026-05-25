@@ -1,6 +1,6 @@
 <!-- =================== TOP BANNER =================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8A2BE2&height=240&section=header&text=Rajesh%20Karki&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20CEO%20at%20Codepaila%20Technology%20|%20Nepal%20🇳🇵&descAlignY=55&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8A2BE2&height=240&section=header&text=Rajesh%20Karki&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Nepal%20🇳🇵&descAlignY=55&descSize=18"/>
 </div>
 
 <h3 align="center">
