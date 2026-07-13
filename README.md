@@ -22,10 +22,13 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/AbdurrahmaanH/gif-store/main/Programmer.gif" alt="Coding animation"/>
 
 I'm a **Software Developer** at **Heartsun Technology Pvt. Ltd**, building full-stack enterprise applications with **C#/.NET** and **React** mainly in the healthcare and management-systems space. I care about clean architecture, maintainable code, and shipping software that actually holds up in production.
-
+<br/>
 🎓 Pursuing **BSc (Hons) Computer Systems Engineering** ISMT College, affiliated with the University of Sunderland (UK)
+<br/>
 ✅ Completed **Diploma in Information Technology**
+<br/>
 🌱 Currently exploring **microservices architecture** and **cloud technologies**
+<br/>
 🤝 Open to **Software Engineer / Full Stack Developer** roles
 <br/>
 ⚡ Fun fact: I debug code faster than I debug my life 😄
