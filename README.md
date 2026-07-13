@@ -27,6 +27,7 @@ I'm a **Software Developer** at **Heartsun Technology Pvt. Ltd**, building full-
 ✅ Completed **Diploma in Information Technology**
 🌱 Currently exploring **microservices architecture** and **cloud technologies**
 🤝 Open to **Software Engineer / Full Stack Developer** roles
+<br/>
 ⚡ Fun fact: I debug code faster than I debug my life 😄
 
 <br clear="right"/>
