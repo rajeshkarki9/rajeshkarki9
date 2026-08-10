@@ -16,11 +16,14 @@
 <a href="https://github.com/rajeshkarki9">
 <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rajesh-karki-478a9b274/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:rajeshkarki.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://karkirajesh.com.np" target="_blank">
+  <img src="https://img.shields.io/badge/Website-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
 
 <br><br>
