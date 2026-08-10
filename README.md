@@ -135,9 +135,7 @@ status:
 
 ### 🔧 Engineering
 
-* Developed enterprise applications using **C#/.NET**
-* Built REST APIs with **ASP.NET Core**
-* Developed React-based web applications
+* Developed enterprise applications using **C#/.NET/VB.NET**
 * Developed desktop applications using **VB.NET / WinForms**
 * Designed SQL Server databases
 * Optimized complex SQL queries
