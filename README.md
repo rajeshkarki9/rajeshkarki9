@@ -1,172 +1,275 @@
-<div align="center">
+# 👋 Hi, I'm Rajesh Karki
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=220&section=header&text=Hi,%20I'm%20Rajesh%20Karki&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20from%20Nepal%20🇳🇵&descAlignY=55&descSize=18"/>
+### 💻 Software Developer | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;C%23+%7C+.NET+%7C+React+Enthusiast;Building+Scalable+Enterprise+Apps;Open+to+New+Opportunities" alt="Typing SVG"/>
+I'm a **Software Developer with 2+ years of professional experience**, specializing in building full-stack enterprise applications using **C#/.NET, ASP.NET Core, React, JavaScript/TypeScript, and SQL Server**.
 
-<br/>
+I have **2 years and 1 month of professional experience at Heartsun Technology Pvt. Ltd.**, where I worked on healthcare and management-system applications, focusing on backend development, database design, API integration, desktop applications, and responsive web applications.
 
-[![Email](https://img.shields.io/badge/Email-rajesh.karki.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajesh.karki.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-karki-478a9b274/)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)]()
+I enjoy solving real-world problems through software, writing maintainable code, and continuously learning modern technologies and architecture patterns.
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajeshkarki9&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/rajeshkarki9?label=Followers&style=for-the-badge&color=blue)
+🎓 Currently pursuing **BSc (Hons) Computer Systems Engineering** at ISMT College, affiliated with the **University of Sunderland, UK**
 
-</div>
-
-<br/>
-
-## 🚀 About Me
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/AbdurrahmaanH/gif-store/main/Programmer.gif" alt="Coding animation"/>
-
-I'm a **Software Developer** at **Heartsun Technology Pvt. Ltd**, building full-stack enterprise applications with **C#/.NET** and **React** mainly in the healthcare and management-systems space. I care about clean architecture, maintainable code, and shipping software that actually holds up in production.
-<br/>
-🎓 Pursuing **BSc (Hons) Computer Systems Engineering** ISMT College, affiliated with the University of Sunderland (UK)
-<br/>
 ✅ Completed **Diploma in Information Technology**
-<br/>
-🌱 Currently exploring **microservices architecture** and **cloud technologies**
-<br/>
-🤝 Open to **Software Engineer / Full Stack Developer** roles
-<br/>
+
+🌱 Currently learning **Microservices Architecture & Cloud Technologies**
+
+🤝 **Open to Software Engineer / Full Stack Developer opportunities**
+
 ⚡ Fun fact: I debug code faster than I debug my life 😄
 
-<br clear="right"/>
+---
 
-```typescript
-const rajesh = {
-  title: "Software Developer",
-  company: "Heartsun Technology Pvt. Ltd",
-  location: "Nepal 🇳🇵",
-  languages: ["C#", "JavaScript", "TypeScript", "SQL"],
-  stack: {
-    backend: [".NET", "ASP.NET Core", "Node.js", "Express"],
-    frontend: ["React", "Vite", "TailwindCSS", "Bootstrap"],
-    databases: ["SQL Server", "MySQL"]
-  },
-  currentlyLearning: ["Microservices", "Cloud Architecture"],
-  lookingFor: "Software Engineer / Full Stack Developer roles"
-};
-```
+## 💼 Professional Experience
 
-<br/>
+### Software Developer — Heartsun Technology Pvt. Ltd.
+
+**Experience: 2 Years 1 Month**
+
+During my time at Heartsun Technology Pvt. Ltd., I worked on enterprise-level software solutions, particularly in the **healthcare and management systems** domain.
+
+### 🔧 Key Responsibilities
+
+* Developed and maintained enterprise applications using **C# and .NET**
+* Built backend services and REST APIs using **ASP.NET Core**
+* Developed responsive web interfaces using **React**
+* Worked with **JavaScript and TypeScript**
+* Designed and optimized **SQL Server** databases and queries
+* Developed and maintained **VB.NET WinForms** applications
+* Integrated third-party and external APIs
+* Implemented authentication and authorization mechanisms
+* Worked with **JWT-based authentication**
+* Developed healthcare-related modules including patient registration, OPD/IPD workflows, insurance/claim processing, reports, and medical records
+* Created and maintained reporting solutions using **Crystal Reports**
+* Worked on database-driven enterprise applications and business logic
+* Debugged and resolved production issues
+* Optimized SQL queries and application performance
+* Collaborated with developers and stakeholders to understand requirements and deliver solutions
+* Worked with Git and GitHub for source-code management
+* Assisted with application deployment, configuration, and troubleshooting
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,express,html,css,tailwind,bootstrap,mysql,git,github,vscode,visualstudio,postman&perline=9&theme=dark"/>
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+</p>
 
-</div>
+### Backend
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-## 📁 Featured Projects
+### Frontend
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-### 🏥 EMR System
-**Healthcare management platform**
+### Databases
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js&logoColor=339933)
-![SQL Server](https://img.shields.io/badge/SQL_Server-333333?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-Patient registration, IPD/OPD tracking, discharge notes, medical history, and role-based access (Admin/Doctor/Patient) with JWT auth and digital prescriptions.
+### Tools & Technologies
 
-</td>
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+</p>
+
+---
+
+## 🏥 Featured Projects
+
+### EMR System
+
+**Healthcare Management Platform**
+
+A healthcare management platform designed to manage patient and hospital workflows.
+
+**Features:**
+
+* Patient registration
+* OPD/IPD management
+* Patient medical history
+* Discharge management
+* Doctor and patient roles
+* Role-based access control
+* JWT authentication
+* Digital prescriptions
+* Healthcare reporting
+* Insurance and claim management
+
+**Technologies:**
+
+`C#` `ASP.NET Core` `React` `SQL Server` `JWT` `REST API`
+
+---
 
 ### 🎓 Student Management System
-**Desktop app for institutions**
 
-![C#](https://img.shields.io/badge/C%23-333333?style=flat-square&logo=csharp&logoColor=239120)
-![Windows Forms](https://img.shields.io/badge/WinForms-333333?style=flat-square&logo=windows&logoColor=0078D7)
-![SQL Server](https://img.shields.io/badge/SQL_Server-333333?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+**Institution Management Desktop Application**
 
-Student records, academic performance tracking, and dynamic PVC ID card printing with a database-driven layout engine.
+A desktop-based student management system designed for educational institutions.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Features:**
+
+* Student registration
+* Student information management
+* Academic performance tracking
+* Database-driven records
+* Dynamic PVC ID card printing
+* Reporting
+* Search and filtering
+
+**Technologies:**
+
+`VB.NET` `WinForms` `SQL Server` `Crystal Reports`
+
+---
 
 ### 🌐 Online Lab Report Portal
-**Secure medical report access**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js&logoColor=339933)
-![JWT](https://img.shields.io/badge/JWT-333333?style=flat-square&logo=jsonwebtokens&logoColor=white)
+**Secure Medical Report Access Platform**
 
-JWT-secured patient login, Base64/PDF report rendering, real-time availability updates, and downloadable reports via a responsive dashboard.
+A web-based portal allowing patients to securely access their laboratory reports online.
 
-</td>
-<td width="50%" valign="top">
+**Features:**
 
-### 📌 More on GitHub
-**Explore the rest of my work**
+* Patient authentication
+* JWT-secured login
+* Medical report access
+* PDF report rendering
+* Base64 document handling
+* Real-time report availability
+* Downloadable reports
+* Responsive dashboard
 
-[![View Repos](https://img.shields.io/badge/View%20All%20Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rajeshkarki9?tab=repositories)
+**Technologies:**
 
-Ongoing experiments, smaller utilities, and open-source contributions live in my repositories — always evolving.
+`React` `Node.js` `Express` `SQL Server` `JWT` `REST API`
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## 📚 Currently Learning
 
-## 📊 GitHub Stats & Contributions
+I'm continuously improving my skills in:
 
-<div align="center">
+* 🧩 Microservices Architecture
+* ☁️ Cloud Computing
+* 🐳 Docker & Containerization
+* 🔄 CI/CD
+* 🏗️ Clean Architecture
+* 🔐 Application Security
+* ⚡ API Performance Optimization
+* 📡 Distributed Systems
+* ☁️ Cloud-native Application Development
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajeshkarki9&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkarki9&theme=radical&hide_border=true"/>
+---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkarki9&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=rajeshkarki9&theme=radical&no-frame=true&column=4&row=2&margin-w=8&margin-h=8"/>
+## 🎯 Career Goals
 
-</div>
+I'm currently looking for opportunities as a:
 
-<div align="center">
+* **Software Engineer**
+* **Full Stack Developer**
+* **.NET Developer**
+* **Backend Developer**
+* **Software Developer**
 
-### 🔥 Contribution Graph
-<img src="https://ghchart.rshah.org/8A2BE2/rajeshkarki9" alt="Contribution chart"/>
+I'm particularly interested in organizations where I can work on **scalable enterprise applications, distributed systems, cloud technologies, and modern software architecture**.
 
-</div>
+---
 
-<div align="center">
+## 📊 GitHub Stats
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeshkarki9/rajeshkarki9/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeshkarki9/rajeshkarki9/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rajeshkarki9/rajeshkarki9/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshkarki9&show_icons=true&theme=tokyonight" />
+</p>
 
-<sub>Snake animation requires the <a href="https://github.com/Platane/snk">snk GitHub Action</a> set up on your profile repo — see note below.</sub>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkarki9&theme=tokyonight" />
+</p>
 
-</div>
+---
 
-<br/>
+## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajeshkarki9/rajeshkarki9/output/github-contribution-grid-snake.svg" />
+</p>
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+> The contribution snake requires the GitHub `snk` Action to be configured in the profile repository.
 
-**Let's build something great together.**
+---
 
-[![Email](https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajesh.karki.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-karki-478a9b274/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/karki.rajesh.733)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karki_rajesh07/)
+## 📈 GitHub Activity
 
-<sub>⭐️ From <a href="https://github.com/rajeshkarki9">rajeshkarki9</a> · Last updated: July 2026</sub>
+I regularly work on:
 
-</div>
+* Full-stack applications
+* .NET projects
+* React applications
+* REST APIs
+* SQL optimization
+* Healthcare software
+* Management systems
+* Personal projects
+* Learning experiments
+* Open-source contributions
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F093FB,50:764BA2,100:667EEA&height=120&section=footer"/>
+---
+
+## 💭 Developer Philosophy
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+> — Cory House
+
+I believe good software should be:
+
+**Simple → Maintainable → Secure → Scalable → Reliable**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, engineers, recruiters, and people working on interesting technology.
+
+📧 **Email:** [Your Email]
+
+💼 **LinkedIn:** [Your LinkedIn]
+
+🐙 **GitHub:** [@rajeshkarki9](https://github.com/rajeshkarki9)
+
+---
+
+## ⭐ Thanks for Visiting!
+
+If you find my projects interesting, feel free to ⭐ star a repository and explore my work.
+
+**Let's build something great together. 🚀**
+
+---
+
+⭐️ From **[rajeshkarki9](https://github.com/rajeshkarki9)**
+**2+ Years of Professional Software Development Experience**
+**Last Updated: August 2026**
