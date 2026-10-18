@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:111827,75:0F766E,100:06B6D4&height=250&section=header&text=RAJESH%20KARKI&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20ENGINEER&descAlignY=55&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:111827,75:0F766E,100:06B6D4&height=250&section=header&text=RAJESH%20KARKI&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20ENGINEER&descAlignY=60&descSize=18&animation=fadeIn" alt="Rajesh Karki Header Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Building+Enterprise+Applications+%F0%9F%9A%80;C%23+%7C+.NET+%7C+React+%7C+SQL+Server;Healthcare+Technology+%7C+Management+Systems;Clean+Code+%7C+Scalable+Architecture;2%2B+Years+of+Professional+Experience;Always+Learning.+Always+Building.+%F0%9F%92%BB"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Building+Enterprise+Applications+%F0%9F%8F%A5;C%23+%7C+.NET+Core+%7C+React+%7C+SQL+Server;10%2B+Daily+Contributions+%7C+High-Velocity+Builder;Clean+Code+%7C+Robust+Architecture+%7C+Scalable+APIs;2%2B+Years+of+Professional+Experience;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Dynamic Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-14B8A6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DOMAIN-HEALTHCARE-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-NEPAL-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS-06B6D4?style=for-the-badge" alt="Experience" />
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-14B8A6?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/DOMAIN-HEALTHCARE-0EA5E9?style=for-the-badge" alt="Domain" />
+<img src="https://img.shields.io/badge/LOCATION-NEPAL-0891B2?style=for-the-badge" alt="Location" />
 
 <br><br>
 
 <a href="https://github.com/rajeshkarki9">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/rajesh-karki-478a9b274/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:rajeshkarki.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://karkirajesh.com.np" target="_blank">
   <img src="https://img.shields.io/badge/Website-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
@@ -28,7 +28,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rajeshkarki9&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=rajeshkarki9&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -54,7 +54,7 @@
 
 I'm a **Software Developer with 2 years and 1 month of professional experience** building enterprise applications, primarily in the **healthcare and management systems** domain.
 
-My development experience covers the complete application lifecycle — from understanding requirements and designing databases to developing APIs, building user interfaces, debugging production issues, and maintaining applications.
+My development experience covers the complete application lifecycle — from understanding requirements and designing databases to developing APIs, building user interfaces, debugging production issues, and supporting live systems in real environments.
 
 I enjoy solving practical engineering problems and building software that is:
 
@@ -170,29 +170,27 @@ status:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cs,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,js,ts,html,css" alt="Languages" />
 
 <br><br>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" alt="Backend" />
 
 <br><br>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" alt="Frontend" />
 
 <br><br>
 
 ### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,visualstudio,docker" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,visualstudio,docker" alt="Database and tools" />
 
-<br>
-
-<br>
+<br><br>
 
 `SQL Server` • `Crystal Reports` • `REST API` • `JWT` • `WinForms`
 
@@ -242,8 +240,8 @@ A healthcare management platform designed to manage hospital operations and pati
 
 <div align="center">
 
-<a href="YOUR_EMR_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/rajeshkarki9/NEWMyWebsite">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project"/>
 </a>
 
 </div>
@@ -280,8 +278,8 @@ A desktop application for managing students, academic records, and institution w
 
 <div align="center">
 
-<a href="YOUR_STUDENT_PROJECT_URL">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/rajeshkarki9/NEWMyWebsite">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project"/>
 </a>
 
 </div>
@@ -321,8 +319,8 @@ A secure online platform allowing patients to access laboratory reports remotely
 
 <div align="center">
 
-<a href="YOUR_LAB_PROJECT_URL">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/rajeshkarki9/NEWMyWebsite">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project"/>
 </a>
 
 </div>
@@ -359,8 +357,8 @@ Backend services supporting healthcare applications, patient information, insura
 
 <div align="center">
 
-<a href="YOUR_API_PROJECT_URL">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/rajeshkarki9/NEWMyWebsite">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project"/>
 </a>
 
 </div>
@@ -380,26 +378,26 @@ Backend services supporting healthcare applications, patient information, insura
 ┌─────────────────────────────────────────────────────────┐
 │                    USER / CLIENT                        │
 └──────────────────────────┬──────────────────────────────┘
-                           │
-                           ▼
+                            │
+                            ▼
 ┌─────────────────────────────────────────────────────────┐
 │                  REACT FRONTEND                         │
 │            UI • State • Forms • Validation               │
 └──────────────────────────┬──────────────────────────────┘
-                           │
-                           ▼
+                            │
+                            ▼
 ┌─────────────────────────────────────────────────────────┐
 │                     REST API                             │
 │              ASP.NET Core / Node.js                     │
 └──────────────────────────┬──────────────────────────────┘
-                           │
-                           ▼
+                            │
+                            ▼
 ┌─────────────────────────────────────────────────────────┐
 │                  BUSINESS LOGIC                         │
 │          Services • Validation • Authorization          │
 └──────────────────────────┬──────────────────────────────┘
-                           │
-                           ▼
+                            │
+                            ▼
 ┌─────────────────────────────────────────────────────────┐
 │                    DATABASE                              │
 │              SQL Server / MySQL                         │
@@ -462,12 +460,12 @@ Design for future growth.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge&logo=apachekafka&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Cloud_Architecture-111827?style=for-the-badge&logo=icloud&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Distributed_Systems-111827?style=for-the-badge&logo=apache&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge&logo=apachekafka&logoColor=06B6D4" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Cloud_Architecture-111827?style=for-the-badge&logo=icloud&logoColor=06B6D4" alt="Cloud Architecture"/>
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=06B6D4" alt="System Design"/>
+<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-111827?style=for-the-badge&logo=apache&logoColor=06B6D4" alt="Distributed Systems"/>
 
 </div>
 
@@ -507,9 +505,9 @@ Foundation of software development, programming, databases and IT systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajeshkarki9&show_icons=true&theme=transparent&hide_border=true&title_color=06B6D4&icon_color=14B8A6&text_color=94A3B8&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajeshkarki9&show_icons=true&theme=transparent&hide_border=true&title_color=06B6D4&icon_color=14B8A6&text_color=94A3B8&rank_icon=github&cache_seconds=1800" width="48%" alt="GitHub Readme Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkarki9&theme=transparent&hide_border=true&ring=06B6D4&fire=F97316&currStreakLabel=06B6D4&sideLabels=94A3B8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkarki9&theme=transparent&hide_border=true&ring=06B6D4&fire=F97316&currStreakLabel=06B6D4&sideLabels=94A3B8" width="48%" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -517,7 +515,7 @@ Foundation of software development, programming, databases and IT systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkarki9&layout=donut&theme=transparent&hide_border=true&title_color=06B6D4&text_color=94A3B8&langs_count=8" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkarki9&layout=donut&theme=transparent&hide_border=true&title_color=06B6D4&text_color=94A3B8&langs_count=8" width="42%" alt="Top Languages" />
 
 </div>
 
@@ -527,7 +525,7 @@ Foundation of software development, programming, databases and IT systems.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshkarki9&bg_color=0B1020&color=06B6D4&line=14B8A6&point=FFFFFF&area_color=0F766E&area=true&hide_border=true&custom_title=Rajesh%20Karki's%20Contribution%20Graph" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshkarki9&bg_color=0B1020&color=06B6D4&line=14B8A6&point=FFFFFF&area_color=0F766E&area=true&hide_border=true&custom_title=Rajesh%20Karki's%20Contribution%20Graph" width="96%" alt="Contribution Graph" />
 
 </div>
 
@@ -546,24 +544,24 @@ Foundation of software development, programming, databases and IT systems.
 # 🎯 2026 Roadmap
 
 ```text
-                         2026
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-     .NET / React      System Design    Cloud
-          │                │                │
-          ▼                ▼                ▼
-      Microservices    Distributed      Docker
-          │             Systems           │
-          └────────────────┼────────────────┘
-                           │
-                           ▼
-                  Production-Grade
-                     Applications
-                           │
-                           ▼
-                       🚀 🚀 🚀
+                          2026
+                            │
+           ┌────────────────┼────────────────┐
+           │                │                │
+           ▼                ▼                ▼
+      .NET / React      System Design    Cloud
+           │                │                │
+           ▼                ▼                ▼
+       Microservices    Distributed      Docker
+           │             Systems           │
+           └────────────────┼────────────────┘
+                            │
+                            ▼
+                   Production-Grade
+                      Applications
+                            │
+                            ▼
+                        🚀 🚀 🚀
 ```
 
 ---
@@ -572,10 +570,10 @@ Foundation of software development, programming, databases and IT systems.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software_Engineer-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full_Stack_Developer-14B8A6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/.NET_Developer-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend_Developer-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software_Engineer-06B6D4?style=for-the-badge" alt="Software Engineer"/>
+<img src="https://img.shields.io/badge/Full_Stack_Developer-14B8A6?style=for-the-badge" alt="Full Stack Developer"/>
+<img src="https://img.shields.io/badge/.NET_Developer-0EA5E9?style=for-the-badge" alt=".NET Developer"/>
+<img src="https://img.shields.io/badge/Backend_Developer-0891B2?style=for-the-badge" alt="Backend Developer"/>
 
 <br><br>
 
@@ -652,15 +650,15 @@ Building Products
 <br>
 
 <a href="https://github.com/rajeshkarki9">
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rajesh-karki-478a9b274/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:rajeshkarki.dev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -669,7 +667,7 @@ Building Products
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:111827,75:0F766E,100:06B6D4&height=150&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:111827,75:0F766E,100:06B6D4&height=150&section=footer&animation=fadeIn" alt="Footer Banner"/>
 
 ### 👋 Thanks for visiting!
 
@@ -681,10 +679,84 @@ Building Products
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rajeshkarki9&style=flat-square&color=06B6D4"/>
+<img src="https://komarev.com/ghpvc/?username=rajeshkarki9&style=flat-square&color=06B6D4" alt="Profile Views"/>
 
 <br><br>
 
 ⭐ **If you like my work, consider starring my repositories!**
 
 </div>
+
+---
+
+# ⚙️ How to run my projects (quick-start)
+
+Notes below are generic quick-start commands. See each repository's README for full instructions.
+
+- .NET / ASP.NET Core projects
+  - Restore & build: `dotnet restore && dotnet build`
+  - Run: `dotnet run --project ./src/YourProject/YourProject.csproj`
+  - Publish (production): `dotnet publish -c Release -o ./publish`
+
+- React (Vite) frontends
+  - Install: `npm ci` or `yarn`
+  - Dev server: `npm run dev`
+  - Build: `npm run build`
+
+- Node.js / Express backends
+  - Install: `npm ci`
+  - Dev: `npm run dev`
+  - Start: `npm start`
+
+- Docker (containerize)
+  - Build image: `docker build -t your-image-name .`
+  - Run: `docker run -p 5000:80 your-image-name`
+
+- Database
+  - SQL Server: use provided `.bak` / scripts under `database/` or run migrations where available.
+
+---
+
+# 🤝 Contribution & Collaboration
+
+Thanks for your interest! If you'd like to contribute:
+
+1. Fork the repo you want to contribute to.
+2. Create a branch: `git checkout -b feat/short-description`.
+3. Make your changes and add tests/documentation.
+4. Open a PR with a clear title and description of what you changed and why.
+
+Code style notes:
+- Follow existing patterns (C# naming conventions, async Task usage, DTOs).
+- Keep API contracts backward-compatible where possible.
+
+For mentoring, code reviews, or pairing sessions — please reach out on LinkedIn or by email.
+
+---
+
+# 🔗 Quick links & resume
+
+- Portfolio: https://karkirajesh.com.np
+- Resume (PDF): https://karkirajesh.com.np/resume.pdf
+- Main project repo: https://github.com/rajeshkarki9/NEWMyWebsite
+- Profile: https://github.com/rajeshkarki9
+
+---
+
+# 📬 Contact
+
+- Email: rajeshkarki.dev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rajesh-karki-478a9b274/
+- Website: https://karkirajesh.com.np
+
+I generally respond within a few business days — feel free to reach out for collaboration.
+
+---
+
+# 🧾 License
+
+This README and any supporting materials in this profile are available under the MIT License. If you'd like a different license, tell me and I can update it.
+
+---
+
+*If you want, I can also add a table of contents, project-specific setup steps, or a cleaner featured-project section.*
