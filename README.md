@@ -344,61 +344,6 @@ Backend service layer handling inter-hospital synchronization, third-party labor
 
 </div>
 
----
-
-# 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-
-<!-- DYNAMIC TROPHY SHOWCASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=rajeshkarki9&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" width="100%" alt="GitHub Trophies" />
-
-<br><br>
-
-<!-- OFFICIAL GITHUB ACHIEVEMENT BADGES -->
-<a href="https://github.com/rajeshkarki9?tab=achievements">
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire — Co-authored commits on default branch" />
-</a>
-<a href="https://github.com/rajeshkarki9?tab=achievements">
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pull-shark-default.png" width="90" alt="Pull Shark" title="Pull Shark — Merged Pull Requests" />
-</a>
-<a href="https://github.com/rajeshkarki9?tab=achievements">
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw — Closed issues/PRs rapidly" />
-</a>
-<a href="https://github.com/rajeshkarki9?tab=achievements">
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/yolo-default.png" width="90" alt="YOLO" title="YOLO — Merged without review" />
-</a>
-<a href="https://github.com/rajeshkarki9?tab=achievements">
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/arctic-code-vault-contributor-default.png" width="90" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Analytics & Real-Time Stats
-
-
-<br>
-
-<div align="center">
-
-<!-- TOP LANGUAGES DONUT -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkarki9&layout=donut&theme=transparent&hide_border=true&title_color=06B6D4&text_color=94A3B8&langs_count=8&cache_seconds=1800" width="45%" alt="Top Languages" />
-
-</div>
-
----
-
-# 📈 Real-Time Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshkarki9&bg_color=0B1020&color=06B6D4&line=14B8A6&point=FFFFFF&area_color=0F766E&area=true&hide_border=true&custom_title=Rajesh%20Karki's%20Verified%20Contribution%20Graph" width="96%" alt="Contribution Graph" />
-
-</div>
-
----
 
 # 🐍 Contribution Snake Eater
 
