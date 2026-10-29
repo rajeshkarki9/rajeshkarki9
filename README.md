@@ -378,15 +378,6 @@ Backend service layer handling inter-hospital synchronization, third-party labor
 
 # 📊 GitHub Analytics & Real-Time Stats
 
-<div align="center">
-
-<!-- STATS CARD -->
-<img src="https://github.com/rajeshkarki9/rajeshkarki9/blob/main/public/images/github-real-stats.svg" width="48%" alt="GitHub Stats" />
-
-<!-- STREAK CARD -->
-<img src="https://github.com/rajeshkarki9/rajeshkarki9/blob/main/public/images/github-real-streak.svg" width="48%" alt="GitHub Streak Stats" />
-
-</div>
 
 <br>
 
